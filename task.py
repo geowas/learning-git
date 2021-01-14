@@ -1,2 +1,5 @@
-ser1 = {'nazwa': 'Piekarnia', 'rzeczy': chleb, pączek, bułki}
-ser2 = {'nazwa': 'Warzywniak', 'rzeczy': 11.24}
+print('Lista zakupów')
+print()
+slownik = {'piekarnia': ['chleb', 'pączek', 'bułki'], 'warzywniak': ['marchew', 'seler', 'rukola']}
+
+
