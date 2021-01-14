@@ -15,5 +15,6 @@ for klucz in slownik:
 print('W sumie kupuje {} produktów.'.format(suma))
 
 print('Serdecznie pozdrawiam')
+print('Berlin, 14.01.2020')
 
 
