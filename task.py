@@ -10,3 +10,7 @@ for klucz in slownik:
    
     #print(idę do klucz i kupuję tam)
 
+    #print('W sumie kupuje 6 produktów.'.format for x in slownik[klucz])
+
+print('W sumie kupuje {} produktów.'.format(suma))
+
